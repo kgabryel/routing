@@ -1,0 +1,12 @@
+{
+  "name": "frankie/routing",
+  "autoload": {
+    "psr-4": {
+      "Frankie\\Routing\\": "src"
+    }
+  },
+  "require": {
+    "php-ds/php-ds": "^1.2",
+    "frankie/request": "^1.0"
+  }
+}
